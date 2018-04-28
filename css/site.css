@@ -1,0 +1,77 @@
+body {
+	font-family: 'Lato', sans-serif;
+	color: #747704;
+}
+
+.text-thin {
+	font-weight: 100;
+}
+
+.text-secondtitle {
+	padding-left: 2%;
+	color: green;
+	font-weight: 800;
+	font-size: 38px;
+	margin-top: 1em;
+	font-family: papyrus;
+}
+
+#upper-text {
+  margin-top: 97px;
+}
+
+.title-super {
+font-family: papyrus;
+  font-size: 60px
+  }
+
+.description-project {
+	font-size: 38px;
+	font-weight: 400;
+	color: #747704;
+}
+
+.subtitle {
+	font-family: papyrus;
+	font-weight: 300;
+	font-size: 22px;
+}
+
+
+.title-logo {
+	margin-top: 1.5em;
+  height: 200px;
+}
+
+hr {
+  border: 2px solid gray;
+}
+
+.fa {
+  color: red;
+}
+
+.footer {
+	text-align: center;
+	font-size: 20px;
+	background-color: #eee;
+	margin-top: 50px;
+}
+
+.memory_game {
+	font-family: papyrus;
+	font-weight: 800;
+	color: blue;
+}
+
+.arcade_game {
+	font-family: papyrus;
+	font-weight: 800;
+	color: blue;
+}
+
+.neibourhood_map {
+	font-family: papyrus;
+	font-weight: 800;
+	color: blue;
+}
